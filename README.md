@@ -1,6 +1,6 @@
 # Foundational-Data-Analytics-Techniques
 
 1. Creating a new column + adding values to the new column based on conditions of another column [click here](https://github.com/hsarfraz/Foundational-Data-Analytics-Techniques/blob/main/number1.md)
-2. Grouping by column values + getting distinct/unique counts [click here]()
+2. Grouping by column values + getting distinct/unique counts [click here](https://github.com/hsarfraz/Foundational-Data-Analytics-Techniques/blob/main/number%202.md)
 3. Cartesian product / cross join [click here](https://github.com/hsarfraz/Foundational-Data-Analytics-Techniques/blob/main/number%203.md)
 
