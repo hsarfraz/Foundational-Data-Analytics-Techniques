@@ -5,4 +5,6 @@
 3. Cartesian product / cross join [click here](https://github.com/hsarfraz/Foundational-Data-Analytics-Techniques/blob/main/number%203.md)
 4. PostgresSQL and MSSQL data types, converting to float [click here](https://github.com/hsarfraz/Foundational-Data-Analytics-Techniques/blob/main/number%204.md)
 5. Converting Date columns to DateTime object + sorting them [click here](https://github.com/hsarfraz/Foundational-Data-Analytics-Techniques/blob/main/number%205.md)
+6. Vertial Join of two datasets
+7. Filtering rows of a column is it contains a certain string
 
