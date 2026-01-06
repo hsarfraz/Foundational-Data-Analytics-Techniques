@@ -7,4 +7,4 @@
 5. Converting Date columns to DateTime object + sorting them [click here](https://github.com/hsarfraz/Foundational-Data-Analytics-Techniques/blob/main/number%205.md)
 6. Vertial Join of two datasets
 7. Filtering rows of a column is it contains a certain string
-
+9. Using 2 group bys and performing 2 aggregates or sum and mean
