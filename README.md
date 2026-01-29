@@ -15,3 +15,4 @@ alabama.court <-  read.csv('AlabamaCourt.csv') #function to read the file
 6. Vertial Join of two datasets
 7. Filtering rows of a column is it contains a certain string
 9. Using 2 group bys and performing 2 aggregates or sum and mean
+10. Full join of two dataset where the column has to be re-named to make the join happen
